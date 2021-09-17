@@ -1,0 +1,33 @@
+0.2	percantagenoneedcc
+0.2	yearlyremission
+5000000	maxbeddays
+1500	0	intpeopleonlist
+46	0	180	intreadmission
+------------------------------------others<3
+0.003807	admissionperc
+0.42	ec
+0.58	nonec
+0.994052676	0.911469839	0.952761257	0.998130841	1.028207307	1.002209006	1.01393373	0.973661852	1.027697536	1.033814783	1.008326253	1.055734919	multipliers for monthly distribution
+------------------------------------hub
+0.145	admissionperc
+0.14	ec
+0.86	nonec
+1.01754386	1.333333333	1.087719298	0.98245614	0.596491228	0.736842105	0.912280702	0.877192982	1.263157895	0.912280702	0.912280702	1.368421053	multipliers for monthly distribution
+------------------------------------others 3+
+0.233464567	admissionperc
+0.21	ec
+0.79	nonec
+1.016436447	0.969217527	1.060212321	0.947821453	0.992335123	1.011763741	1.023076608	1.001434603	0.967987867	0.983727507	0.999221216	1.026765586	multipliers for monthly distribution
+------------------------------------readmissions
+0.119843924	readmission percentage others<3
+0.379310345	readmission percentage hub
+0.142495784	readmission percentage others 3+
+------------------------------------LOS
+1.5	8	5.81
+
+
+
+
+
+
+
